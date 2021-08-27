@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master
+  branch: main
   repo: henrycity/netlify-cms-github-oauth-provider-client-example # change this to your repo
   base_url: https://marsh-golden-college.glitch.me/ # change this to your OAuth server
 publish_mode: editorial_workflow
